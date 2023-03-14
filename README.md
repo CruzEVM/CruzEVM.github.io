@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About M:
 Mi nombre es cruz Valadez<br>Estudiante del Instituto Tecnologico de Tijuana<br>Inegenieria en sistemas computacionales <br>Actuamante cursando el 9no semestre <br><br>Horario<br><br><br><br>Me gusta la tecnologia desde muy joven, por eso me intereso la carrera <br>Mis fuertes en el area son las aplicaciones moviles y bases de datos<br><br>Mis pasatiempos:<br>Ver partidos de distintos deportes<br>Leer articulos sobre las nuevas tecnologias <br>ver videos en youtube de los nuevos dispositivos tecnologicos <br>que las empresan sacan al mercado como samsung, xiaomi, apple, etc<br>Y los fines de semana salir de fiesta con mis amigos pa distraerme un poco<br>
 
 
